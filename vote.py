@@ -1,5 +1,5 @@
 # vote.py
-from hydrobot import types
+from hydrogram import types
 from database import data, save_data
 from config import CONFIG
 
