@@ -46,7 +46,6 @@ async def main():
     asyncio.create_task(scheduler())
     await bot.start()
     print("Bot çalışıyor...")
-    await bot.idle()
 
 if __name__ == "__main__":
     asyncio.run(main())
