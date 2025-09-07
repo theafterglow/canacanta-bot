@@ -1,5 +1,5 @@
 # register.py
-from hydrobot import types
+from hydrogram import types
 from database import data, save_data
 from utils import is_youtube, is_vote_time_reached
 from config import CONFIG

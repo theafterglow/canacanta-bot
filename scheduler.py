@@ -1,5 +1,5 @@
 # scheduler.py
-from hydrobot import filters
+from hydrogram import filters
 from config import CONFIG
 from utils import time_valid
 import asyncio

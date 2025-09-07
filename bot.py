@@ -1,6 +1,6 @@
 # bot.py
 import asyncio
-from hydrobot import Client, filters
+from hydrogram import Client, filters
 from config import CONFIG
 from database import load_data, save_data
 from register import register_country, register_song
